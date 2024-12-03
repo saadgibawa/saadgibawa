@@ -87,7 +87,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <!-- GitHub Activity Graph -->
-![IU's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saadgibawa&theme=jolly&hide_border=true)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saadgibawa&theme=jolly&hide_border=true)
 
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
